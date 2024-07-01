@@ -1,3 +1,15 @@
+### 20240628 TGO鲲鹏会：Tech Globalization LLM Infra 趋势
+1. 马健(Cloey)- ARM VP；江均晨-U Chicago assist prof
+2. CPU，NPU，IPU，Memory
+3. HBM, CXL(Compute express link), Memory pooling
+4. System will be different as use cases evolve. Industry insights.
+- Model serving, similar to YouTube video streaming.
+- People are thinking about how to serve the model/inferrence, that's just like set up a video infra/player, and stream, but it's not big system. Big system require new system thinking.
+- Now model input can be very big
+- 云/边/端
+- Infra, model, application. Use cases and models will direct how infra evolve. Need to understand use case trends, similar to video streaming era.系统方面并不清晰，不清楚use case。
+- Jeff Dean `The Tail at Scale`: data center application
+- 模型边界，什么应该放在大模型里，大模型应该是通用能力，具体个性化留给端或数据
 ### 20240701 安克创新CEO阳萌
 [YouTube 1](https://www.youtube.com/watch?v=kMBjzxKYWw4)
 [YouTube 2](https://www.youtube.com/watch?v=d1dGmqovyaU)
